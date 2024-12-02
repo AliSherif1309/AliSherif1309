@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">👨‍⚕️ Aly Sherif | Biomedical Engineer</h1>
+<p align="center">Advancing healthcare through technology, innovation, and continuous improvement.</p>
 
-<!--
-**AliSherif1309/AliSherif1309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔬 About Me  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **👷 Field Service Engineer** at Ali Al-Suwaidi Trading (AST), Doha, Qatar.  
+- **💻 Developer:** Creating tools and solutions to enhance medical equipment workflows.  
+- **🎓 Education:** Biomedical Engineering, Helwan University.  
+
+---
+
+### 🚀 What I Do  
+
+- 🛠️ **Maintain and Support Diagnostic Systems:**  
+  Expertise in systems like **Liaison XL**, **Erytra Eflexis**, and **Panther ART systems**.  
+- 🖥️ **Develop Custom Applications:**  
+  Automating tasks and streamlining processes to enhance efficiency.  
+- 💡 **Innovate in Healthcare Technology:**  
+  Continuously finding solutions to improve patient care and operational workflows.  
+
+---
+
+### 🛠️ Technologies & Tools  
+
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
+- ![Cursor AI](https://img.shields.io/badge/-Cursor_AI-FF5722?style=flat&logo=ai&logoColor=white)  
+
+---
+
+### 📫 Let’s Connect  
+
+- **🔗 LinkedIn:** [Aly Sherif](https://www.linkedin.com/in/aly-adel-sherif/)  
+- **📧 Email:** [alysherif1309@gmail.com](mailto:alysherif1309@gmail.com)  
+
+---
+
+### 📊 Profile Views  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
