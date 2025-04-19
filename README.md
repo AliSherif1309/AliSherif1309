@@ -5,9 +5,9 @@
 
 ### 🔬 About Me  
 
-- **👷 Field Service Engineer** at Ali Al-Suwaidi Trading (AST), Doha, Qatar.  
+- **👷 Field Service Engineer**.  
 - **💻 Developer:** Creating tools and solutions to enhance medical equipment workflows.  
-- **🎓 Education:** Biomedical Engineering, Helwan University.  
+- **🎓 Education:** Biomedical Engineering.  
 
 ---
 
