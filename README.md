@@ -41,5 +41,12 @@
 ### 📊 Profile Views  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AliSherif1309&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+### Featured projects
+
+- [Biomedical document navigator](https://github.com/AliSherif1309/BME-Document-Navigator)
+- [BME Toolkit](https://github.com/AliSherif1309/bme-toolkit)
+- [True Qibla for Android](https://github.com/AliSherif1309/TrueQibla-Android)
+- [Professional portfolio](https://alisherif1309.github.io/alisherif.github.io/)
