@@ -23,6 +23,10 @@ I'm a biomedical engineer based in Doha, Qatar, working in field service for med
 | [BME Toolkit](https://github.com/AliSherif1309/bme-toolkit) · [Open tools](https://alisherif1309.github.io/bme-toolkit/) | Root-cause analysis tools, interactive books, and learning games for biomedical equipment engineers. |
 | [True Qibla for Android](https://github.com/AliSherif1309/TrueQibla-Android) | An Android Qibla compass with sensor checks, offline direction finding, and in-app updates. |
 
+## AI contributors
+
+I use **Claude (Anthropic)** and **ChatGPT / Codex (OpenAI)** as AI contributors to help develop my projects, brainstorm ideas, write and review code, troubleshoot issues, and improve documentation.
+
 ## Tools I work with
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
